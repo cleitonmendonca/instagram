@@ -51,7 +51,7 @@ body {
     margin: 0px auto;
 }
 
-.login-form {
+.card {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -62,7 +62,7 @@ body {
     border: 1px solid lightgray;
 }
 
-.login-form:nth-child(1) {
+.card:nth-child(1) {
     min-height: 19rem;
 }
 
